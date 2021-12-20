@@ -1,5 +1,5 @@
 # ROB535 Perception Project
-The image classification project was undertaken as part of ROB 535: Self- Driving Cars - Controls and Perception. The aim was to classify a vehicle in the given image. Image classification task is done using state-of-the-art neural network architecture.
+The image classification project was undertaken as part of ROB 535: Self- Driving Cars - Controls and Perception. The aim was to classify a vehicle in the given image. Image classification task is done using state-of-the-art ResNet architecture with our own modifications.
 
 <h1>Files</h1>
 * main.ipynb <br />
@@ -18,7 +18,7 @@ The image classification project was undertaken as part of ROB 535: Self- Drivin
 * train.ipynb - This file contains code for training and validation <br />
 
 <h1>Execution Steps</h1>
-- For training the model, RUN ALL main.ipynb <br />
-- For testing and obtaining the results, RUN ALL test.ipynb <br />
+- For training the model, run main.ipynb <br />
+- For testing and obtaining the results, run test.ipynb <br />
 
 
